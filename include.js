@@ -1,4 +1,10 @@
 let cards = [
+  { artName:"TimaoEO"
+    pageLink: "./Art/timaoeo/index.html",
+    imageLink: ".timao.jpeg",
+    author: "almasob",
+    githubLink: "https://github.com/almasob",
+  },
   {
     artName: "CSS heART",
     pageLink: "./Art/Aarush/Heart.html",
